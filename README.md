@@ -1,5 +1,5 @@
 # Portfolio
 
-This is the portfolio of the projects made by Nicolas Zapata Cruz in his Bachelor Degree of Product Design Engineering
+This is the portfolio of the projects made by Nicolas Zapata Cruz in his Bachelor Degree of Product Design Engineering in EAFIT University, Medellin - Colombia
 
-To see some photos of the product and the video of the result [click here](https://github.com/nicozapatacruz/university-projects/tree/main/STAFF/photos)
+To see the pdf file of the portfolio [click here](https://github.com/nicozapatacruz/portfolio/blob/main/Portfolio.pdf)
